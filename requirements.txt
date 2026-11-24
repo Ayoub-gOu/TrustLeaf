@@ -1,0 +1,9 @@
+streamlit>=1.40
+torch
+torchvision
+timm
+grad-cam
+pillow
+numpy
+pandas
+groq

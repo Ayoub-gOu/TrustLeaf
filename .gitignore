@@ -1,0 +1,8 @@
+.env
+.streamlit/secrets.toml
+weights/*.pth
+weights/*.pt
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
